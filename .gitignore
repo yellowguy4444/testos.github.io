@@ -1,0 +1,8 @@
+# Ignoruj běžné věci
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Ujisti se, že se .well-known verzuje
+!.well-known/
